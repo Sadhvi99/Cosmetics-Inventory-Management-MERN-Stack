@@ -1,0 +1,1 @@
+# Cosmetics-Inventory-Management-MERN-Stack
